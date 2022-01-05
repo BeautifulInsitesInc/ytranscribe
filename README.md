@@ -6,4 +6,4 @@ Just a quick script to clean up the transcription as copied from any youtube vid
 ## Possible Future Development Ideas
 ----
 * Automatically scrape the youtube transcription from URL using Beautiful Soup library
-* Use a library like nltk to cleanup the grammar, and formate into paragraphs. 
+* Use a library like nltk to cleanup the grammar, and format into paragraphs. 
